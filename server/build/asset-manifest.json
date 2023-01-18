@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7e249ce8.css",
+    "main.js": "/static/js/main.94bc480c.js",
+    "static/media/blur.webp": "/static/media/blur.9a6315349fa2f3978f22.webp",
+    "static/media/warning.mp3": "/static/media/warning.cabda68954ffc8c3b1cf.mp3",
+    "static/media/tea.webp": "/static/media/tea.b0f60c4ae2268ce531c9.webp",
+    "static/media/happy.webp": "/static/media/happy.a8705225c2917a396ddb.webp",
+    "static/media/drunk.webp": "/static/media/drunk.c23bc3fe9dc19236390a.webp",
+    "static/media/lonely.webp": "/static/media/lonely.603dced18a6adadbb103.webp",
+    "static/media/curse.webp": "/static/media/curse.a9f301a07cc881df69c1.webp",
+    "static/media/headache.webp": "/static/media/headache.6548862067ae077cf580.webp",
+    "static/media/press.webp": "/static/media/press.36e75544ee236c18c0cc.webp",
+    "static/media/hope.webp": "/static/media/hope.9927700d4feaae9d33ea.webp",
+    "static/media/hey_hey.webp": "/static/media/hey_hey.59f63f54bf10b306a11d.webp",
+    "static/media/load.mp3": "/static/media/load.43c472cf7cd57ec546aa.mp3",
+    "static/media/please_wait.mp3": "/static/media/please_wait.a9d90c755e7f217e82a3.mp3",
+    "static/media/saved.mp3": "/static/media/saved.628e03eeb046215d5d80.mp3",
+    "static/media/good.webp": "/static/media/good.9b2fe38a69e498fb141b.webp",
+    "static/media/tuturu.mp3": "/static/media/tuturu.db6950665ab909e41c3a.mp3",
+    "static/media/united-states.png": "/static/media/united-states.bf988a50ece2abc9bb37.png",
+    "static/media/european-union.png": "/static/media/european-union.aaeb9ef0e7c46151ac0f.png",
+    "index.html": "/index.html",
+    "main.7e249ce8.css.map": "/static/css/main.7e249ce8.css.map",
+    "main.94bc480c.js.map": "/static/js/main.94bc480c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e249ce8.css",
+    "static/js/main.94bc480c.js"
+  ]
+}
