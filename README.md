@@ -1,8 +1,8 @@
-Great! Here's a possible README.md file for your GitHub repository:
+
 
 # PH&Co Stock Check Web App
 
-This is a web application built with React, Node.js, MongoDB, Mongoose, and Express. It is designed to be used by PH&Co company for stock check purposes on both PCs and smartphones.
+This is a web application built with React, Node.js, MongoDB, Mongoose, and Express. It is designed to be used by LAI CHEE HOONG for stock check purposes on both PCs and smartphones.
 
 ## Features
 
@@ -38,26 +38,4 @@ Replace `<your MongoDB connection string>` with the connection string to your Mo
 5. Run `npm start` to start the app.
 6. Access the app at `http://localhost:3000`.
 
-## Usage
 
-To use the app, follow these steps:
-
-1. Open the app in your web browser.
-2. If you don't have an account, click on the "Sign up" button to create one.
-3. Log in with your account.
-4. Use the app to check the stock of products or manage users and products if you have admin access.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Contributing
-
-If you want to contribute to this project, please read the `CONTRIBUTING.md` file for guidelines.
-
-## Acknowledgments
-
-Thanks to the following contributors for their help with this project:
-
-- Jane Doe (jane.doe@example.com)
-- John Smith (john.smith@example.com)
